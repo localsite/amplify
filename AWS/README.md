@@ -1,6 +1,7 @@
 
 
 Amplify Ecosystem - [Graphic in video](https://www.youtube.com/watch?v=y7AesEGIRYM&feature=youtu.be&t=145)  
+Amplify Docs - [Javascript Libraries](https://docs.amplify.aws/lib/q/platform/js)  
 
 # Our Amplify React App
 
@@ -110,3 +111,28 @@ Only works in Chrome, Brave and Safari advise to delete cookies, even with no pr
 
 [AWS Terminology](terminology.html) | 
 [Notes on Aurora DB and SageMaker](notes.html)  
+
+
+## Add a Database
+
+Module 4: [Add a GraphQL API and Database](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-four/?e=gs2020&p=build-a-react-app-intro)  
+
+Compare to these steps:  
+
+[Go here](https://docs.amplify.aws/start/q/integration/js) and click [Get Started](https://sandbox.amplifyapp.com/start#datastore). Choose Blog and rename Blog model to Directory and directoryID.
+
+
+# Gatsby
+
+https://ealtili.medium.com/deploy-gatsby-with-aws-amplify-console-cli-and-aws-cognito-aws-appsync-a94a48d73465  
+
+Some videos to check out: containers, and machine learning/AI
+https://www.youtube.com/watch?v=3a86SFIRvVA
+
+<!--
+# Expo for React Native - starter, then detach
+https://hackernoon.com/understanding-expo-for-react-native-7bf23054bbcd
+
+	"Many experienced React Native developers do not use Expo. Once you get comfortable with all the steps required to configure your projects yourself and deploy your apps, the benefits of Expo are greatly diminished. Also, if you’re looking for a way to handle over-the-air deployments, Microsoft’s CodePush is still best-in-class.""
+-->
+
